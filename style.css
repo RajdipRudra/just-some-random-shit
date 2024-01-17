@@ -1,4 +1,8 @@
 .meme{
+    color: white;
+    background: rgba(128, 0, 128, 0.753);
+    font-family:cursive;
+    border-radius: 40px;
     text-align: center;
     height: 1000px;
     width: 1000px;
@@ -7,8 +11,10 @@
     margin: 0 auto;
 }
 img{
+    border-radius: 30px;
     margin: 0 auto;
     height:245px;
     width:280px;
-    border: 8px solid white;
+    border: 8px;
+    box-shadow:0px 0px 30px whitesmoke;
 }
